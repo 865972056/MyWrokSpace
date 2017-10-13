@@ -3,4 +3,5 @@
 void main()
 {
   printf("%s\n", "hello world");
+  return -1;
 }
